@@ -1,4 +1,4 @@
-# 0xSwap v0
+# 0xSwap
 
 Welcome to 0xSwap - the future of volatility trading. 0xSwap is an intermediary liquidity pool that enables trading volatility using UniSwap. Our application is powered by smart contracts that implement pools of tokens where traders can swap their tokens.
 
