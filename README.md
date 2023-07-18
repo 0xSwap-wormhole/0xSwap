@@ -20,6 +20,9 @@ Currently, UniSwap users cannot buy volatility since they are only able to depos
 - Decentralized Volatility Trading: We aim to pioneer decentralized volatility trading without intermediaries, providing a new DeFi use case and financial instrument.
 - Cross-Chain Borrow-Lend: 0xSwap supports cross-chain value transfer, allowing users to leverage assets from different chains through the Wormhole bridge.
 
+## Video
+https://vimeo.com/846331843?share=copy
+
 ## User Flow
 1. User buys crypto with cash using Transak.
 2. User transfers crypto across different chains using the Wormhole bridge.
